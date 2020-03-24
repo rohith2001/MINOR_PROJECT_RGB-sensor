@@ -1,5 +1,4 @@
-# MINOR_PROJECT_RGB-sensor
-# minor_project_RGB-sensor_code
+# MINOR_PROJECT_RGB-sensor_code
 
 AIM : To design and develop the LDR(Light Dependent Resistor) based Color_Sensor.
 APPARATUS:
